@@ -16,46 +16,54 @@ Hi, my name is **Alberto Otero** 👋🏻, and I'm a:
 
 # Work experience
 
-**Member of Technical Staff III @ VMware (2022)**
-*VMware · Full time  · 2022 -Present · Fully Remote (from La Coruña, Spain) · [More...](en/experience/4_vmware.md)*
+##Member of Technical Staff III @ VMware (2022)
+*VMware · Full time  · 2022 -Present · Fully Remote (from La Coruña, Spain)*
 
-**Technical Lead: E-Racing (e-racing project) @ DEUS AI (2021)**
+MTS at the VMWare/Bitnami Content Team (part of **VMWare Tanzu**). Here I am having the opportunity to keep expanding my knowledge about the **software process** and software supply chain, this time more oriented to **high-end deployment and production environments**, with **Docker, Kubernetes, and Helm Charts**.
+
+After spending a few months onboarding into the company's stack pipelines and working methodologies, and during a year, I’ve been one of the three responsible of create, develop, and **release new assets to BAC** (Bitnami Application Catalog) and TAC (Tanzu Application Catalog), just before start **leading a small development team** (4p) introducing a Golang internal tool (which **I have impulsed myself**) to the company for observability and triage internal pipeline issues.    
+BAC and TAC assets include **compilation,** Docker containers with its related logic, including **planning and development of each own specific Kubernetes scenario and chart**, some of the assets I have introduced are Jaeger, Apache Flink, Fluent Bit and OpenSearch.
+
+Also, I am part of the Bitnami containers and charts support team, where we provide community support and troubleshooting directly on our GitHub public repositories.
+
+
+##Technical Lead: E-Racing (e-racing project) @ DEUS AI (2021)
 *DEUS AI · Full time · ene. 2022 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/3_deus_lead.md)*
 
-**Golang Backend Engineer @ DEUS AI (2021)**
+During my time on DEUS as a Golang Engineer, I’ve been designed to lead the company’s internships in a project about the creation of an application conceived to bring to **real life data and analytics for racing teams**, applying **machine learning techniques over racing simulator’s** telemetry and session metrics datasets, introducing interns into **SCRUM/Agile** development philosophies.
+
+##Golang Backend Engineer @ DEUS AI (2021)
 *DEUS AI · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/2_deus.md)*
 
-**Automation & Release Engineer @ INDITEX Productivity and Developer Experience Team - 2020**
-*Torus Sofware Solutions · Full time  · ago. 2020 - dic. 2021  · Fully Remote (from La Coruña, Spain) · [More...](en/experience/1_inditex.md)*
-
+Working over the Golang backend of a **next-gen** company's client application (**Shell**) just a few months prior to its launch, **improving** also our CI workflows and **standardizing Branching and Release strategies**, following my philosophy of improving the productivity on the developer environment, taking initiative and participating in the creation of a **knowledge database** about Golang's company stack.
 
 # Personal Projects
 
-**Changelog Guardian (active) (2023)** 
+**Changelog Guardian (active) · (2023)** 
 
 _Changelog Guardian is a tool created to automate the versioning and releasing process of your artifacts, independently of the technology they use, with multiple configuration options and always following the guidelines of Semamtical Versionning and KeepAChangelog · [More...](en/projects/7_changelog_guardian.md)_
 
-**AOCryptoBot (stand-by)  (2021)** 
+**AOCryptoBot (stand-by) · (2021)** 
 
 _OpenSource development. Crypto-trading bot with custom parametrized strategies with well known market indicators as enter/exit signals, and algorithms with backtest and parameter calculations (tries combinations for the best steep of the indicator for a specific market giving the last past N days/periods samples), multi-strategy choose. Reached a weekly average profit of 2.5% · [More...](en/projects/6_aocryptobot.md)_
 
-**TARS (stand-by) (2021)** 
+**TARS (stand-by) · (2021)** 
 
 _90% honesty, 100% Developer Experience. TARS is meant to be an automator with the ability to perform massive actions over git repositories. Early development status. · [More...](en/projects/5_tars.md)_
 
-**Zennith Esports (2020)** 
+**Zennith Esports · (2020)** 
 
 _Web and desktop application development for an esports team, joining in-game real-time data and web services (Angualr 8 Front, PHP API, Python desktop services). · [More...](en/projects/4_zennith_esports.md)_
 
-**PayLoBot (2019)** 
+**PayLoBot · (2019)** 
 
 _Development of an automation to jump some waiting queues for specific high-volume sells (festival tickets) with anti-bot systems and cognito auth needs. Very proud of this development, since many have tried without success, with a 100% effectiveness on the sales. · [More...](en/projects/3_paylobot.md)_
 
-**ComuNiBA (2018)** 
+**ComuNiBA · (2018)** 
 
 _Comunio based web-game mixing real NBA stats and players and virtual teams to make a basketball manager system. Django backend fully developed, but project has took aside due to lack of time and motivation. · [More...](en/projects/2_comuniba.md)_
 
-**AOTEROCOM Website (2018)** 
+**AOTEROCOM Website · (2018)** 
 
 _Personal website fully designed and developed from the ground with MEAN Stack and Cognito auth pools. Currently not available (down due hosting costs). Public code in Github. · [More...](en/projects/1_aoterocom.md)_
 
