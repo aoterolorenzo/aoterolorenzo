@@ -16,7 +16,6 @@
 
 ![Image 9](/img/webmail.png)
 
-NaN/9
 
 ### This is my cornerstone
 
