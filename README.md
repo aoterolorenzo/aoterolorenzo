@@ -1,4 +1,4 @@
-![Alt Text](img/aoterolorenzo.gif)
+![Alt Text](/img/aoterolorenzo.gif)
 
 Hi, my name is **Alberto Otero** 👋🏻, and I'm a:
 
@@ -32,31 +32,31 @@ Hi, my name is **Alberto Otero** 👋🏻, and I'm a:
 
 **Changelog Guardian (active) · (2023)** 
 
-_Changelog Guardian is a tool created to automate the versioning and releasing process of your artifacts, independently of the technology they use, with multiple configuration options and always following the guidelines of Semamtical Versionning and KeepAChangelog · [More...](en/projects/7_changelog_guardian.md)_
+_Changelog Guardian is a tool created to automate the versioning and releasing process of your artifacts, independently of the technology they use, with multiple configuration options and always following the guidelines of Semamtical Versionning and KeepAChangelog · [More...](en/7_changelog_guardian.md)_
 
 **AOCryptoBot (stand-by) · (2021)** 
 
-_OpenSource development. Crypto-trading bot with custom parametrized strategies with well known market indicators as enter/exit signals, and algorithms with backtest and parameter calculations (tries combinations for the best steep of the indicator for a specific market giving the last past N days/periods samples), multi-strategy choose. Reached a weekly average profit of 2.5% · [More...](en/projects/6_aocryptobot.md)_
+_OpenSource development. Crypto-trading bot with custom parametrized strategies with well known market indicators as enter/exit signals, and algorithms with backtest and parameter calculations (tries combinations for the best steep of the indicator for a specific market giving the last past N days/periods samples), multi-strategy choose. Reached a weekly average profit of 2.5% · [More...](en/6_aocryptobot.md)_
 
 **TARS (stand-by) · (2021)** 
 
-_90% honesty, 100% Developer Experience. TARS is meant to be an automator with the ability to perform massive actions over git repositories. Early development status. · [More...](en/projects/5_tars.md)_
+_90% honesty, 100% Developer Experience. TARS is meant to be an automator with the ability to perform massive actions over git repositories. Early development status. · [More...](en/5_tars.md)_
 
 **Zennith Esports · (2020)** 
 
-_Web and desktop application development for an esports team, joining in-game real-time data and web services (Angualr 8 Front, PHP API, Python desktop services). · [More...](en/projects/4_zennith_esports.md)_
+_Web and desktop application development for an esports team, joining in-game real-time data and web services (Angualr 8 Front, PHP API, Python desktop services). · [More...](en/4_zennith_esports.md)_
 
 **PayLoBot · (2019)** 
 
-_Development of an automation to jump some waiting queues for specific high-volume sells (festival tickets) with anti-bot systems and cognito auth needs. Very proud of this development, since many have tried without success, with a 100% effectiveness on the sales. · [More...](en/projects/3_paylobot.md)_
+_Development of an automation to jump some waiting queues for specific high-volume sells (festival tickets) with anti-bot systems and cognito auth needs. Very proud of this development, since many have tried without success, with a 100% effectiveness on the sales. · [More...](en/3_paylobot.md)_
 
 **ComuNiBA · (2018)** 
 
-_Comunio based web-game mixing real NBA stats and players and virtual teams to make a basketball manager system. Django backend fully developed, but project has took aside due to lack of time and motivation. · [More...](en/projects/2_comuniba.md)_
+_Comunio based web-game mixing real NBA stats and players and virtual teams to make a basketball manager system. Django backend fully developed, but project has took aside due to lack of time and motivation. · [More...](en/2_comuniba.md)_
 
 **AOTEROCOM Website · (2018)** 
 
-_Personal website fully designed and developed from the ground with MEAN Stack and Cognito auth pools. Currently not available (down due hosting costs). Public code in Github. · [More...](en/projects/1_aoterocom.md)_
+_Personal website fully designed and developed from the ground with MEAN Stack and Cognito auth pools. Currently not available (down due hosting costs). Public code in Github. · [More...](en/1_aoterocom.md)_
 
 # EDUCATION
 

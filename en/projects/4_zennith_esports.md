@@ -1,4 +1,4 @@
-![Zennith Esports](projects/img/zennithesports.jpeg)
+![Zennith Esports](/img/zennithesports.jpeg)
 
 ### Gaming Engineering and Automation
 
@@ -14,7 +14,7 @@ I’ve been always fan of motorsports and simulation, but this got into the next
 *   PHP/MongoDB Backend, synced with Nexcloud auth and calendars
 *   Setup sharing automations
 
-![Crypto logo](projects/img/streaming.jpeg)
+![Crypto logo](/img/streaming.jpeg)
 
 ### Nobody at the wheel
 
@@ -28,7 +28,7 @@ All is automated:
 *   User profiles are updated syncing with the sim APIs grabbing all the drivers stats, Events are completely automated (system gets in Live mode with all the events data and live broadcast (twitch or youtube) with the real time feed by the clients).
 *   The community manager is also a bot, the system generates a PNG with the announce of the events, and the system tweets it the target day by morning and with the event start
 
-![Crypto logo](projects/img/strategist.jpeg)
+![Crypto logo](/img/strategist.jpeg)
 
 ### Sources are private
 
