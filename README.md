@@ -16,7 +16,7 @@ Hi, my name is **Alberto Otero** 👋🏻, and I'm a:
 
 # Work experience
 
-## Member of Technical Staff III @ VMware (2022)
+## Member of Technical Staff III @ VMware
 *VMware · Full time  · 2022 -Present · Fully Remote (from La Coruña, Spain)*
 
 MTS at the VMWare/Bitnami Content Team (part of **VMWare Tanzu**). Here I am having the opportunity to keep expanding my knowledge about the **software process** and software supply chain, this time more oriented to **high-end deployment and production environments**, with **Docker, Kubernetes, and Helm Charts**.
@@ -27,12 +27,12 @@ BAC and TAC assets include **compilation,** Docker containers with its related l
 Also, I am part of the Bitnami containers and charts support team, where we provide community support and troubleshooting directly on our GitHub public repositories.
 
 
-## Technical Lead: E-Racing (e-racing project) @ DEUS AI (2021)
+## Technical Lead: E-Racing (e-racing project) @ DEUS AI
 *DEUS AI · Full time · ene. 2022 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/3_deus_lead.md)*
 
 During my time on DEUS as a Golang Engineer, I’ve been designed to lead the company’s internships in a project about the creation of an application conceived to bring to **real life data and analytics for racing teams**, applying **machine learning techniques over racing simulator’s** telemetry and session metrics datasets, introducing interns into **SCRUM/Agile** development philosophies.
 
-## Golang Backend Engineer @ DEUS AI (2021)
+## Golang Backend Engineer @ DEUS AI
 *DEUS AI · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/2_deus.md)*
 
 Working over the Golang backend of a **next-gen** company's client application (**Shell**) just a few months prior to its launch, **improving** also our CI workflows and **standardizing Branching and Release strategies**, following my philosophy of improving the productivity on the developer environment, taking initiative and participating in the creation of a **knowledge database** about Golang's company stack.
