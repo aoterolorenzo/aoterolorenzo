@@ -1,6 +1,6 @@
-![Website Mockup](/assets/img/comuniba.snapshot.png)
+![Website Mockup](/img//comuniba.snapshot.png)
 
-### This is a ![](/assets/img/django.logo.png) project
+### This is a ![](/img//django.logo.png) project
 
 * * *
 
