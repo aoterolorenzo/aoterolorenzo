@@ -1,4 +1,4 @@
-![Crypto logo](/img//changelog-guardian.png)
+![Crypto logo](/img/changelog-guardian.png)
 
 ### Get your company's Developer Experience to the next level
 

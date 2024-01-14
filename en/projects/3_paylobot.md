@@ -1,4 +1,4 @@
-![Website Mockup](/img//paylobot.png)
+![Website Mockup](/img/paylobot.png)
 
 ### My gold project
 

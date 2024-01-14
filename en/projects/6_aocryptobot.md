@@ -1,6 +1,6 @@
-![Crypto logo](/img//cryptobot2.png)
+![Crypto logo](/img/cryptobot2.png)
 
-### This is ![](/img//gologo.png)
+### This is ![](/img/gologo.png)
 
 * * *
 
@@ -11,7 +11,7 @@
 *   Custom Market Maker strategy config parameters
 *   Backtest analyzer algorithm and parameter calculator
 
-![Crypto logo](/img//cryptobot3.png)
+![Crypto logo](/img/cryptobot3.png)
 
 ### Why this project
 
@@ -23,7 +23,7 @@ Now this became in something pretty big, with the introduction of **custom param
 
 The bot is, in addition, capable of run with **simultaneous strategies and markets, calculating the best parameters for each strategy**, and been able to select one of them, if conditions are addressed (for example, in my tests I’m declaring tradeable any strategy with backtest profit of 1.5% on the last 5 days, I play always with the strategy that have better benefit / std deviation ratio)
 
-![Crypto logo](/img//cryptobot4.png)
+![Crypto logo](/img/cryptobot4.png)
 
 ### Checkout from Gitlab
 

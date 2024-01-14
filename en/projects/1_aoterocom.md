@@ -1,6 +1,6 @@
-![Website Mockup](/img//aoterocom.mockup.big.png)
+![Website Mockup](/img/aoterocom.mockup.big.png)
 
-### This is ![](/img//mean.png)
+### This is ![](/img/mean.png)
 
 * * *
 
