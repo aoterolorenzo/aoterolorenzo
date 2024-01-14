@@ -19,28 +19,14 @@ Hi, my name is **Alberto Otero** 👋🏻, and I'm a:
 ## Member of Technical Staff III @ VMware
 *VMware · Full time  · 2022 -Present · Fully Remote (from La Coruña, Spain)*
 
-MTS at the VMWare/Bitnami Content Team (part of **VMWare Tanzu**). Here I am having the opportunity to keep expanding my knowledge about the **software process** and software supply chain, this time more oriented to **high-end deployment and production environments**, with **Docker, Kubernetes, and Helm Charts**.
-
-After spending a few months onboarding into the company's stack pipelines and working methodologies, and during a year, I’ve been one of the three responsible of create, develop, and **release new assets to BAC** (Bitnami Application Catalog) and TAC (Tanzu Application Catalog), just before start **leading a small development team** (4p) introducing a Golang internal tool (which **I have impulsed myself**) to the company for observability and triage internal pipeline issues.    
-BAC and TAC assets include **compilation,** Docker containers with its related logic, including **planning and development of each own specific Kubernetes scenario and chart**, some of the assets I have introduced are Jaeger, Apache Flink, Fluent Bit and OpenSearch.
-
-Also, I am part of the Bitnami containers and charts support team, where we provide community support and troubleshooting directly on our GitHub public repositories.
-
-
 ## Technical Lead: E-Racing (e-racing project) @ DEUS AI
 *DEUS AI · Full time · ene. 2022 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/3_deus_lead.md)*
-
-During my time on DEUS as a Golang Engineer, I’ve been designed to lead the company’s internships in a project about the creation of an application conceived to bring to **real life data and analytics for racing teams**, applying **machine learning techniques over racing simulator’s** telemetry and session metrics datasets, introducing interns into **SCRUM/Agile** development philosophies.
 
 ## Golang Backend Engineer @ DEUS AI
 *DEUS AI · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/2_deus.md)*
 
-Working over the Golang backend of a **next-gen** company's client application (**Shell**) just a few months prior to its launch, **improving** also our CI workflows and **standardizing Branching and Release strategies**, following my philosophy of improving the productivity on the developer environment, taking initiative and participating in the creation of a **knowledge database** about Golang's company stack.
-
 ## Automation & Release Engineer @ INDITEX Productivity and Developer Experience Team
 *Torusware Sofware Solutions · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/1_inditex.md)*
-
-Industrialization and standardization process in a multinational environment with hundreds of IT teams, **standardizing software process** and **improving effectiveness and productivity** from development to releasing, as like as develop the **tools and automations** to achieve those goals.
 
 # Personal Projects
 
