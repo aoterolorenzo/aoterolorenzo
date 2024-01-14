@@ -16,16 +16,16 @@ Hi, my name is **Alberto Otero** 👋🏻, and I'm a:
 
 # Work experience
 
-## Member of Technical Staff III @ VMware
+### Member of Technical Staff III @ VMware
 *VMware · Full time  · 2022 -Present · Fully Remote (from La Coruña, Spain)*
 
-## Technical Lead: E-Racing (e-racing project) @ DEUS AI
+### Technical Lead: E-Racing (e-racing project) @ DEUS AI
 *DEUS AI · Full time · ene. 2022 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/3_deus_lead.md)*
 
-## Golang Backend Engineer @ DEUS AI
+### Golang Backend Engineer @ DEUS AI
 *DEUS AI · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/2_deus.md)*
 
-## Automation & Release Engineer @ INDITEX Productivity and Developer Experience Team
+### Automation & Release Engineer @ INDITEX Productivity and Developer Experience Team
 *Torusware Sofware Solutions · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/1_inditex.md)*
 
 # Personal Projects
