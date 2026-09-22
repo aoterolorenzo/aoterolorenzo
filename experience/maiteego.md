@@ -4,17 +4,17 @@
 - **Dates:** Oct 2024 → present
 - **Location:** Remote, A Coruña
 - **Type:** Full-time
-- **Stack:** Go, React Native, LangGraph, Kubernetes (RKE2), ArgoCD, Terraform, PostgreSQL, Grafana LGTM
+- **Stack:** Go, React Native, LangGraph, Kubernetes, ArgoCD, Terraform, PostgreSQL, Grafana LGTM
 
 Maiteego is a multiplatform AI travel app that plans tailor-made itineraries. It is live on the App Store, Google Play and the web. I build and run its engine, with two partners on design and funding, and I coordinate a team of five.
 
 - A Go backend where a single itinerary drives up to 30 concurrent goroutines across three processing pools.
-- Two RKE2 clusters on Hetzner Cloud, GitOps with ArgoCD for more than 30 services, and full LGTM observability.
+- Two Kubernetes clusters on Hetzner Cloud, GitOps with ArgoCD for more than 30 services, and full LGTM observability.
 - A LangGraph chatbot with five specialist agents, on models chosen with my own benchmark of latency, cost and tool-calling reliability.
 
 ## Platform
 
-- Two RKE2 clusters on Hetzner Cloud over openSUSE MicroOS, one for the app and one for data, on a segmented private network with a cluster autoscaler.
+- Two Kubernetes clusters on Hetzner Cloud over openSUSE MicroOS, one for the app and one for data, on a segmented private network with a cluster autoscaler.
 - Terraform split by lifecycle, so volumes and load balancers survive while servers are recreated.
 - GitOps with ArgoCD for more than 30 services as Helm charts, per-environment values for dev, staging and production, and Sealed Secrets for every secret.
 - Operated data services: Crunchy Postgres with continuous backups to S3, ClickHouse, Dragonfly and Redpanda.

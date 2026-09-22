@@ -41,7 +41,7 @@ I care about the flow as much as the code. Good teams rest on good pipelines, cl
 
 ## Skills
 
-- **Platform:** Kubernetes (RKE2), Helm, ArgoCD, Terraform, Hetzner Cloud, AWS, openSUSE MicroOS, Sealed Secrets, cert-manager
+- **Platform:** Kubernetes, Helm, ArgoCD, Terraform, Hetzner Cloud, AWS, openSUSE MicroOS, Sealed Secrets, cert-manager
 - **Backend:** Go (main language since 2020), Python, Node.js, PostgreSQL, Redis, Kafka, ClickHouse, hexagonal architecture
 - **AI:** LangGraph, tool calling, RAG with pgvector, MCP servers, LLM evaluation, Langfuse, model benchmarking
 - **Observability:** Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Fluent Bit, PostHog

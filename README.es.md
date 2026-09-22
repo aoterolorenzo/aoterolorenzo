@@ -41,7 +41,7 @@ Me importa el flujo tanto como el código. Los buenos equipos se apoyan en buena
 
 ## Habilidades
 
-- **Plataforma:** Kubernetes (RKE2), Helm, ArgoCD, Terraform, Hetzner Cloud, AWS, openSUSE MicroOS, Sealed Secrets, cert-manager
+- **Plataforma:** Kubernetes, Helm, ArgoCD, Terraform, Hetzner Cloud, AWS, openSUSE MicroOS, Sealed Secrets, cert-manager
 - **Backend:** Go (lenguaje principal desde 2020), Python, Node.js, PostgreSQL, Redis, Kafka, ClickHouse, arquitectura hexagonal
 - **IA:** LangGraph, tool calling, RAG con pgvector, servidores MCP, evaluación de LLM, Langfuse, benchmarking de modelos
 - **Observabilidad:** Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Fluent Bit, PostHog
