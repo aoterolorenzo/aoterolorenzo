@@ -1,123 +1,84 @@
-![Alt Text](/img/aoterolorenzo.gif)
+# Alberto Otero
 
-Hi, my name is **Alberto Otero** 👋🏻, and I'm a:
+![Alberto Otero](img/profile.png)
 
-- 💻 Software Engineer
-- 🤖 Automation Specialist
-- 🚀 Kubernetes Enthusiast
-- 🔄 CI/CD & DevOps Practitioner
-- 🐹 Golang Nerd
+- **Headline:** Software engineer. I build and run production systems.
+- **Focus:** Platform engineering, Go backends, LLM agents
+- **Location:** A Coruña, Spain · remote
+- **Email:** [alberto.ot.lorenzo@gmail.com](mailto:alberto.ot.lorenzo@gmail.com)
+- **LinkedIn:** [in/aoterocom](https://www.linkedin.com/in/aoterocom/)
+- **GitHub:** [aoterolorenzo](https://github.com/aoterolorenzo)
+- **GitLab:** [aoterocom](https://gitlab.com/aoterocom)
 
-# Skills
+*[Leer en español](README.es.md)*
 
-![Automation Engineering](https://img.shields.io/badge/Automation%20Engineering-%23DC5263.svg?style=for-the-badge&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/HELM-%23005b96.svg?style=for-the-badge&logo=helm&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-%23a298dc.svg?style=for-the-badge&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-%23b6c630.svg?style=for-the-badge&logoColor=white) ![Go](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Backend](https://img.shields.io/badge/Backend-%23333333.svg?style=for-the-badge&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-009FDA?logo=scrumalliance&logoColor=fff&style=for-the-badge) ![Engineering Leadership](https://img.shields.io/badge/Engineering%20Leadership-%234fd181.svg?style=for-the-badge&logoColor=white) ![Engineering Management](https://img.shields.io/badge/Engineering%20Management-%2343b285.svg?style=for-the-badge&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## About
 
-<!--- skills: Automation Engineering, Kubernetes, Docker, Helm, DevOps, CICD, Software Development, Golang, Backend, SCRUM, Engineering Leadership, Engineering Management, NodeJS, Python, TCP/IP--->    
+I have been shipping software since 2020, and building things on my own for much longer than that. My base is release engineering and developer productivity: I defined the development and release flows for hundreds of teams at INDITEX, and at VMware I built and released Bitnami catalog assets and a Go tool that triaged pipeline failures across teams.
 
-# Work experience
+Since 2024 I build and run the engine behind Maiteego, a multiplatform AI travel app: the Go backend, the React Native app, the LangGraph agents and the two Kubernetes clusters it runs on, with two partners on design and funding.
 
-### Member of Technical Staff III @ VMware
-*VMware · Full time  · 2022 -Present · Fully Remote (from La Coruña, Spain)*
+I care about the flow as much as the code. Good teams rest on good pipelines, clear ownership and decisions written down, and most of the tools I have built came from that conviction.
 
-### Technical Lead: E-Racing (e-racing project) @ DEUS AI
-*DEUS AI · Full time · ene. 2022 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/3_deus_lead.md)*
+## Experience
 
-### Golang Backend Engineer @ DEUS AI
-*DEUS AI · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/2_deus.md)*
+- [Maiteego AI](experience/maiteego.md)
+- [Broadcom](experience/broadcom.md)
+- [VMware](experience/vmware.md)
+- [DEUS AI, Technical Lead](experience/deus-lead.md)
+- [DEUS AI](experience/deus.md)
+- [INDITEX, via Torus Software Solutions](experience/inditex.md)
 
-### Automation & Release Engineer @ INDITEX Productivity and Developer Experience Team
-*Torusware Sofware Solutions · Full time  · dic. 2021 - jun. 2022 · Fully Remote (from La Coruña, Spain) · [More...](en/experience/1_inditex.md)*
+## Projects
 
-# Personal Projects
+- [Crank](projects/crank.md)
+- [CMO Agents](projects/cmo-agents.md)
+- [Agent Jungle](projects/agent-jungle.md)
+- [Changelog Guardian](projects/changelog-guardian.md)
+- [AOCryptobot](projects/aocryptobot.md)
+- [Zennith Esports](projects/zennith-esports.md)
+- [PayLoBot](projects/paylobot.md)
 
-**Changelog Guardian (active) · (2023)** 
+## Skills
 
-_Changelog Guardian is a tool created to automate the versioning and releasing process of your artifacts, independently of the technology they use, with multiple configuration options and always following the guidelines of Semamtical Versionning and KeepAChangelog · [More...](en/7_changelog_guardian.md)_
+- **Platform:** Kubernetes (RKE2), Helm, ArgoCD, Terraform, Hetzner Cloud, AWS, openSUSE MicroOS, Sealed Secrets, cert-manager
+- **Backend:** Go (main language since 2020), Python, Node.js, PostgreSQL, Redis, Kafka, ClickHouse, hexagonal architecture
+- **AI:** LangGraph, tool calling, RAG with pgvector, MCP servers, LLM evaluation, Langfuse, model benchmarking
+- **Observability:** Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Fluent Bit, PostHog
+- **Delivery:** CI/CD, GitHub Actions, Jenkins, release engineering, SemVer, Keep a Changelog, Gitflow, Maven
+- **Frontend:** React, React Native (Expo), TypeScript, Angular
+- **Ways of working:** Scrum, spec-driven development, product ownership, mentoring
 
-**AOCryptoBot (stand-by) · (2021)** 
+## Education
 
-_OpenSource development. Crypto-trading bot with custom parametrized strategies with well known market indicators as enter/exit signals, and algorithms with backtest and parameter calculations (tries combinations for the best steep of the indicator for a specific market giving the last past N days/periods samples), multi-strategy choose. Reached a weekly average profit of 2.5% · [More...](en/6_aocryptobot.md)_
+- **Computer Engineering, software track** · Universidade da Coruña · 2014-2019
+- **Higher Technician in Telecommunication and Computer Systems** · CIFP Politécnico de Santiago · 2010-2012
 
-**TARS (stand-by) · (2021)** 
+## Certifications
 
-_90% honesty, 100% Developer Experience. TARS is meant to be an automator with the ability to perform massive actions over git repositories. Early development status. · [More...](en/5_tars.md)_
+- **Leadership & Management, Management Essentials** · Harvard Business School Online · 2024
+- **EF SET C1 Advanced** · EF Education First · 2019
+- **Helm** and **Kubernetes for Developers** · OpenWebinars · 2022
+- **Go: The Complete Developer's Guide** and **Master gRPC with Golang** · Udemy
+- **Spring Core 5**, **Spring Boot & Spring MVC** · OpenWebinars · 2020
+- **Jenkins & Continuous Integration**, **TCP/IP Networking**, **Django**, **Angular** · OpenWebinars · 2018
 
-**Zennith Esports · (2020)** 
+## Languages
 
-_Web and desktop application development for an esports team, joining in-game real-time data and web services (Angualr 8 Front, PHP API, Python desktop services). · [More...](en/4_zennith_esports.md)_
+- **Galician** · native
+- **Spanish** · native
+- **English** · C1, full professional
+- **Portuguese** · basic
 
-**PayLoBot · (2019)** 
+## Volunteering
 
-_Development of an automation to jump some waiting queues for specific high-volume sells (festival tickets) with anti-bot systems and cognito auth needs. Very proud of this development, since many have tried without success, with a 100% effectiveness on the sales. · [More...](en/3_paylobot.md)_
+- [RianxoSenCabos](volunteering/rianxosencabos.md)
 
-**ComuNiBA · (2018)** 
+## Teaching
 
-_Comunio based web-game mixing real NBA stats and players and virtual teams to make a basketball manager system. Django backend fully developed, but project has took aside due to lack of time and motivation. · [More...](en/2_comuniba.md)_
+- **Containers and Kubernetes** · two-hour talk for third-year Computer Engineering students, Universidade da Coruña · 2022
+- **Applied AI bootcamp** · 90-minute sessions for a small group: LLM fundamentals, skills, MCP servers, subagents and multi-agent work with Claude Code · 2026
 
-**AOTEROCOM Website · (2018)** 
+## Interests
 
-_Personal website fully designed and developed from the ground with MEAN Stack and Cognito auth pools. Currently not available (down due hosting costs). Public code in Github. · [More...](en/1_aoterocom.md)_
-
-# EDUCATION
-
-**Bachelor's Degree in Computer Engineering** *2014-2019 · Software mention · Universidade da Coruña (DNF)*
-
-**Certificate of Higher Education in Computing and IT** *2010-2013 · CIFP Politécnico de Santiago de Compostela*
-
-**General Certificate of Education** *2007-2010 · IES Félix Muriel (Rianxo, Spain)*
-
-# COURSES & CERTIFICATIONS
-
-**CKAD: Certified Kubernetes Application Developer** *Cloud Native Computing Fundation (CNCF) (Programmed Jan 2023)*
-
-**Leadership & Management / Management Essentials** *Harvard Bussiness School Online (In progress · Due Dec 13, 2023)*
-
-**Curso de Helm** *Openwebinars [(cert link)](https://openwebinars.net/cert/m0gnD)*
-
-**Curso de Kubernetes para desarrolladores** *Openwebinars [(cert link)](https://openwebinars.net/cert/y0B59)*
-
-**Go: The Complete Developer's Guide (Golang)** *Udemy*
-
-**Master gRPC with Golang** *Udemy*
-
-**Curso de Spring Core 5** *Openwebinars [(cert link)](https://openwebinars.net/cert/b3yrr)*
-
-**Spring Boot & Spring MVC** *Openwebinars [(cert link)](https://openwebinars.net/cert/b3yrr)*
-
-**English EF SET Certificate: C1, Advanced Level** *EF: Education First*
-
-**Angular 6 course** *Openwebinars [(cert link)](https://openwebinars.net/academia/certificado/170979/)*
-
-**Angular 4 course** *Openwebinars [(cert link)](https://openwebinars.net/cert/z1XX6)*
-
-**Jenkins, Continuous Integration** *Openwebinars  [(cert link)](https://openwebinars.net/cert/pEJaM)*
-
-**Git, Github y Jekyll** *Openwebinars  [(cert link)](https://openwebinars.net/academia/certificado/171257/)*
-
-**Django course** *Openwebinars [(cert link)](https://openwebinars.net/academia/certificado/171257/)*
-
-**Networking TCT/IP** *Openwebinars [(cert link)](https://openwebinars.net/cert/8DkGO)*
-
-# Languages
-
-**Galician** *Native*
-
-**Spanish** *Bilingual*
-
-**English** *Advanced Level, EF SET Certificate: C1*
-
-
-# Volunteering
-
-**RianxoSenCabos** 
-
-_Non-profit technology and wireless networking association that consisted of a metropolitan area network (MAN) of +100km2 with some hard software development behind from my side, from scripting in access points firmwares to a web portal where to access different data and on-premises services. **We gave ISP service to a +50 associates and maintain a 97% uptime infrastructure over 9 years** · [More...](en/volunteering/1_rianxosencabos.md)_
-
-
-# About myself
-
-Versatility to face any project, and steep learning curve, as like as a recurrent idea of optimization and performance in all I do. Passionate about software engineering and dedicated and withful to mastering its intricacies.
-
-I've created my own path into the software world, cultivating principles, best practices, diving in high-end software supply chains. With hands-on experience at VMware, I had the opportunity to consolidate all the foundations and refined practices I truly believe I had the opportunity to be raised on during my early positions at Deus AI and INDITEX. 
-
-I've been told that I should revert a blank line in my first day, and I honestly think that's the reason that I became who I am now.
+Motorsport and its engineering, sim racing (iRacing, Le Mans Ultimate), DJing and electronic music festivals, chess at around 1500 Elo, and fixing anything with screws or cables.
